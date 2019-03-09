@@ -1,0 +1,36 @@
+/home/kec5204/py_src//evaluate_LDA_topics.py: 5: /home/kec5204/py_src//evaluate_LDA_topics.py: 
+Created on 10 Oct 2018
+
+@author: kec52
+: not found
+from: can't read /var/mail/corpus_class
+from: can't read /var/mail/LDA_functions
+import.im6: unable to open X server `' @ error/import.c/ImportImageCommand/368.
+import.im6: unable to open X server `' @ error/import.c/ImportImageCommand/368.
+/home/kec5204/py_src//evaluate_LDA_topics.py: 10: /home/kec5204/py_src//evaluate_LDA_topics.py: Syntax error: "(" unexpected
+Traceback (most recent call last):
+  File "evaluate_LDA_topics.py", line 6, in <module>
+    from corpus_class import MyCorpus
+  File "/home/kec5204/py_src/corpus_class.py", line 8, in <module>
+    from LDA_functions import iter_documents
+  File "/home/kec5204/py_src/LDA_functions.py", line 20, in <module>
+    from gensim.models.coherencemodel import CoherenceModel
+ImportError: No module named coherencemodel
+new thing
+Traceback (most recent call last):
+  File "evaluate_LDA_topics.py", line 6, in <module>
+    from corpus_class import MyCorpus
+  File "/home/kec5204/py_src/corpus_class.py", line 8, in <module>
+    from LDA_functions import iter_documents
+  File "/home/kec5204/py_src/LDA_functions.py", line 20, in <module>
+    from gensim.models.coherencemodel import CoherenceModel
+ImportError: No module named coherencemodel
+new new thing
+Traceback (most recent call last):
+  File "evaluate_LDA_topics.py", line 6, in <module>
+    from corpus_class import MyCorpus
+  File "/home/kec5204/py_src/corpus_class.py", line 8, in <module>
+    from LDA_functions import iter_documents
+  File "/home/kec5204/py_src/LDA_functions.py", line 20, in <module>
+    from gensim.models.coherencemodel import CoherenceModel
+ImportError: No module named coherencemodel
